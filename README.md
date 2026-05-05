@@ -2,8 +2,6 @@
 
 A macOS menu bar app that brings 4K anime and aesthetic wallpapers to your desktop in one click. No more jumping between websites.
 
-![AniWall UI](screenshots/preview.png)
-
 ---
 
 ## The Story
@@ -25,39 +23,9 @@ So I built one. Inspired by the Unsplash Mac app, but made for anime and aesthet
 - **Multi-monitor support** — sets wallpaper across all connected displays
 - **Completely free** — no subscription, no account needed
 
----
-
-## Screenshots
-
-| Menu Bar | Anime Category | Aesthetic Category |
-|----------|---------------|-------------------|
-| ![Menu Bar](screenshots/menubar.png) | ![Anime](screenshots/anime.png) | ![Aesthetic](screenshots/aesthetic.png) |
 
 ---
 
-## Download
-
-**[⬇ Download AniWall v1.0](https://github.com/yourusername/AniWall/releases/latest)**
-
-### Installation
-
-1. Download `AniWall.zip` from the link above
-2. Unzip and drag `AniWall.app` to your **Applications** folder
-3. Right click → **Open** → **Open Anyway** (required first time — app is not yet notarized)
-4. The ✦ sparkles icon appears in your menu bar
-5. Click it and start browsing
-
-> **Why the "Open Anyway" step?** AniWall is independently distributed and not yet on the Mac App Store. This is a standard macOS security step for indie apps — it's safe.
-
----
-
-## Requirements
-
-- macOS 13 (Ventura) or later
-- Internet connection (for fetching wallpapers)
-- Apple Silicon or Intel Mac
-
----
 
 ## How It Works
 
