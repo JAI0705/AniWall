@@ -25,7 +25,25 @@ So I built one. Inspired by the Unsplash Mac app, but made for anime and aesthet
 
 
 ---
+## Downlode
 
+Installation
+
+Download AniWall.zip from the link above
+Unzip and drag AniWall.app to your Applications folder
+Right click → Open → Open Anyway (required first time — app is not yet notarized)
+The ✦ sparkles icon appears in your menu bar
+Click it and start browsing
+
+
+Why the "Open Anyway" step? AniWall is independently distributed and not yet on the Mac App Store. This is a standard macOS security step for indie apps — it's safe.
+
+
+Requirements
+
+macOS 13 (Ventura) or later
+Internet connection (for fetching wallpapers)
+Apple Silicon or Intel Mac         
 
 ## How It Works
 
